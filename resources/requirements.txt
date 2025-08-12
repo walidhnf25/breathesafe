@@ -1,0 +1,11 @@
+flask
+mysql-connector-python
+ultralytics
+flask_cors
+torch
+torchvision
+opencv-python
+Pillow
+numpy
+Werkzeug
+requests
