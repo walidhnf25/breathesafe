@@ -1,7 +1,7 @@
 ## 1. Clone Repository
 git clone https://github.com/walidhnf25/jadwal.in.git
 
-## 2. Run Python
+## 2. Run Flask Python
 1. Buka Direktori Folder Proyek Flask
 2. Install Library dan Dependensi pip install -r requirements.txt
 3. Run python app.py
